@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://bermudezjorge.github.io/task-management-fronted/static/css/main.5ac26d30.chunk.css",
-    "main.js": "https://bermudezjorge.github.io/task-management-fronted/static/js/main.6c6eaccd.chunk.js",
-    "main.js.map": "https://bermudezjorge.github.io/task-management-fronted/static/js/main.6c6eaccd.chunk.js.map",
-    "runtime~main.js": "https://bermudezjorge.github.io/task-management-fronted/static/js/runtime~main.bf69742e.js",
-    "runtime~main.js.map": "https://bermudezjorge.github.io/task-management-fronted/static/js/runtime~main.bf69742e.js.map",
-    "static/js/2.855c89ae.chunk.js": "https://bermudezjorge.github.io/task-management-fronted/static/js/2.855c89ae.chunk.js",
-    "static/js/2.855c89ae.chunk.js.map": "https://bermudezjorge.github.io/task-management-fronted/static/js/2.855c89ae.chunk.js.map",
-    "index.html": "https://bermudezjorge.github.io/task-management-fronted/index.html",
-    "precache-manifest.df8bf51365f689b589e81086c9455941.js": "https://bermudezjorge.github.io/task-management-fronted/precache-manifest.df8bf51365f689b589e81086c9455941.js",
-    "service-worker.js": "https://bermudezjorge.github.io/task-management-fronted/service-worker.js",
-    "static/css/main.5ac26d30.chunk.css.map": "https://bermudezjorge.github.io/task-management-fronted/static/css/main.5ac26d30.chunk.css.map"
+    "main.css": "https://bermudezjorge.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
+    "main.js": "https://bermudezjorge.github.io/task-management-frontend/static/js/main.3086c4a8.chunk.js",
+    "main.js.map": "https://bermudezjorge.github.io/task-management-frontend/static/js/main.3086c4a8.chunk.js.map",
+    "runtime~main.js": "https://bermudezjorge.github.io/task-management-frontend/static/js/runtime~main.febe2e07.js",
+    "runtime~main.js.map": "https://bermudezjorge.github.io/task-management-frontend/static/js/runtime~main.febe2e07.js.map",
+    "static/js/2.d2d3763c.chunk.js": "https://bermudezjorge.github.io/task-management-frontend/static/js/2.d2d3763c.chunk.js",
+    "static/js/2.d2d3763c.chunk.js.map": "https://bermudezjorge.github.io/task-management-frontend/static/js/2.d2d3763c.chunk.js.map",
+    "index.html": "https://bermudezjorge.github.io/task-management-frontend/index.html",
+    "precache-manifest.35c7f2cadd135ea8cc98fac0c0dc133d.js": "https://bermudezjorge.github.io/task-management-frontend/precache-manifest.35c7f2cadd135ea8cc98fac0c0dc133d.js",
+    "service-worker.js": "https://bermudezjorge.github.io/task-management-frontend/service-worker.js",
+    "static/css/main.5ac26d30.chunk.css.map": "https://bermudezjorge.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
   }
 }
